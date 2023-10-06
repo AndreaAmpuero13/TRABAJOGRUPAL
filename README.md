@@ -25,6 +25,7 @@ Fuente: https://censos2017.inei.gob.pe/redatam/
 
     ▢ Sabe leer y escribir
     ▢ Nivel Último nivel de estudio que aprobó
+    ▢ Sexo
     
 #### Base de datos "Cultura" (https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/EducBas.xlsx)
 
@@ -34,4 +35,19 @@ Fuente: https://censos2017.inei.gob.pe/redatam/
 
     ▢ Idioma o lengua con la que aprendió a hablar...
     ▢ Por sus costumbres y sus antepasados Ud. se considera...
+
+#### Base de datos "Elecciones 2021 PV" ()
+
+Fuente:  https://www.datosabiertos.gob.pe/dataset/resultados-por-mesa-de-las-elecciones-presidenciales-2021-primera-vuelta-oficina-nacional-de
+
+  Variables a utilizar:
+
+    ▢ Porcentaje de votos por: 
+      - APP
+      - PL
+      - FP
+      - VN
+    ▢ si ganó o no una de esas 4 organizaciones
+
+   
     
