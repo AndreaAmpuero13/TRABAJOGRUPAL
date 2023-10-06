@@ -6,9 +6,9 @@
   - Andrea Ampuero 
   - Gianluca Fiorini
 
-#### Base de datos "CEPLAN" (https://www.ceplan.gob.pe/informacion-sobre-zonas-y-departamentos-del-peru/)
+#### Base de datos "CEPLAN" (https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/CEPLAN-.xlsx)
 
-https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/CEPLAN-.xlsx
+Fuente: https://www.ceplan.gob.pe/informacion-sobre-zonas-y-departamentos-del-peru/
 
   Variables a utilizar:
   
@@ -17,5 +17,14 @@ https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/CEPLAN-.xlsx
     ▢ Porcentaje de la población en pobreza extrema 
     ▢ Población Ocupada (2017 )
 
+#### Base de datos "EducBas" (https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/CEPLAN-.xlsx)
 
+Fuente: https://censos2017.inei.gob.pe/redatam/
+
+  Variables a utilizar:
+
+    ▢ Sabe leer y escribir
+    ▢ Nivel Último nivel de estudio que aprobó
+    
+  
     
