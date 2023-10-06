@@ -32,6 +32,6 @@ Fuente: https://censos2017.inei.gob.pe/redatam/
 
   Variables a utilizar:
 
-    ▢ Idioma o lengua con la que aprendió a hablar
-    ▢ Origen por los antepasados
+    ▢ Idioma o lengua con la que aprendió a hablar...
+    ▢ Por sus costumbres y sus antepasados Ud. se considera...
     
