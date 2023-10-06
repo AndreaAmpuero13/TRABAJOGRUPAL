@@ -17,7 +17,7 @@ Fuente: https://www.ceplan.gob.pe/informacion-sobre-zonas-y-departamentos-del-pe
     ▢ Porcentaje de la población en pobreza extrema 
     ▢ Población Ocupada (2017 )
 
-#### Base de datos "EducBas" (https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/CEPLAN-.xlsx)
+#### Base de datos "EducBas" (https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/EducBas.xlsx)
 
 Fuente: https://censos2017.inei.gob.pe/redatam/
 
@@ -26,5 +26,12 @@ Fuente: https://censos2017.inei.gob.pe/redatam/
     ▢ Sabe leer y escribir
     ▢ Nivel Último nivel de estudio que aprobó
     
-  
+#### Base de datos "Cultura" (https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/EducBas.xlsx)
+
+Fuente: https://censos2017.inei.gob.pe/redatam/
+
+  Variables a utilizar:
+
+    ▢ Idioma o lengua con la que aprendió a hablar
+    ▢ Origen por los antepasados
     
