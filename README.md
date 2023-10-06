@@ -8,6 +8,8 @@
 
 #### Base de datos "CEPLAN" (https://www.ceplan.gob.pe/informacion-sobre-zonas-y-departamentos-del-peru/)
 
+https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/CEPLAN-.xlsx
+
   Variables a utilizar:
   
     ▢ Población total(2020)
