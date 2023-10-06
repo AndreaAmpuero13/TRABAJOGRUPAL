@@ -12,9 +12,10 @@ https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/CEPLAN-.xlsx
 
   Variables a utilizar:
   
-    ▢ Población total(2020)
+    ▢ Población total (2020)
     ▢ Índice de Desarrollo Humano -IDH (2019)
     ▢ Porcentaje de la población en pobreza extrema 
+    ▢ Población Ocupada (2017 )
 
 
     
