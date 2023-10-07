@@ -36,9 +36,9 @@ Fuente: https://censos2017.inei.gob.pe/redatam/
     ▢ Idioma o lengua con la que aprendió a hablar...
     ▢ Por sus costumbres y sus antepasados Ud. se considera...
 
-#### Base de datos "Elecciones 2021 PV" ()
+#### Base de datos "EG2021_V1.1_Resultados_Presidencial" ()
 
-Fuente:  https://www.datosabiertos.gob.pe/dataset/resultados-por-mesa-de-las-elecciones-presidenciales-2021-primera-vuelta-oficina-nacional-de
+Fuente: https://infogob.jne.gob.pe/BaseDatos
 
   Variables a utilizar:
 
