@@ -36,7 +36,7 @@ Fuente: https://censos2017.inei.gob.pe/redatam/
     ▢ Idioma o lengua con la que aprendió a hablar...
     ▢ Por sus costumbres y sus antepasados Ud. se considera...
 
-#### Base de datos "EG2021_V1.1_Resultados_Presidencial" (https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/blob/main/EG2021_V1.1_Resultados_Presidencial.xlsx)
+#### Base de datos "ELECCIONES" (https://github.com/AndreaAmpuero13/TRABAJOGRUPAL/raw/main/ELECCIONES.xlsx)
 
 Fuente: https://infogob.jne.gob.pe/BaseDatos
 
